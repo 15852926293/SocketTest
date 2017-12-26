@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\SocketTest\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\admin\Desktop\SocketTest\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\admin\Desktop\SocketTest\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\admin\Desktop\SocketTest\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SocketTest\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\admin\Desktop\SocketTest\SocketClient\obj\Debug\SocketClient.pdb
