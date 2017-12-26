@@ -3,3 +3,9 @@ C:\Users\admin\Desktop\SocketTest\SocketServer\bin\Debug\SocketServer.exe
 C:\Users\admin\Desktop\SocketTest\SocketServer\bin\Debug\SocketServer.pdb
 C:\Users\admin\Desktop\SocketTest\SocketServer\obj\Debug\SocketServer.exe
 C:\Users\admin\Desktop\SocketTest\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\admin\Desktop\Git-Project\SocketTest\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\admin\Desktop\Git-Project\SocketTest\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\admin\Desktop\Git-Project\SocketTest\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\admin\Desktop\Git-Project\SocketTest\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\admin\Desktop\Git-Project\SocketTest\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\admin\Desktop\Git-Project\SocketTest\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
